@@ -23,20 +23,20 @@ Google的SRE(Site Reliability Engineering)的自我评分卡：
 
 SRE需要自评如下这些技术或技能。
 
-> – TCP/IP Networking (OSI stack, DNS etc)
-> – Unix/Linux internals
-> – Unix/Linux Systems administration
-> – Algorithms and Data Structures
-> – C/C++
-> – Python
-> – Java
-> – Perl
-> – Go
-> – Shell Scripting (sh, Bash, ksh, csh)
-> – SQL and/or Database Admin
-> – Scripting language of your choice (not already mentioned) ____
-> – People Management
-> – Project Management
+> – TCP/IP Networking (OSI stack, DNS etc)  
+> – Unix/Linux internals  
+> – Unix/Linux Systems administration  
+> – Algorithms and Data Structures  
+> – C/C++  
+> – Python  
+> – Java  
+> – Perl  
+> – Go  
+> – Shell Scripting (sh, Bash, ksh, csh)  
+> – SQL and/or Database Admin  
+> – Scripting language of your choice (not already mentioned) ____  
+> – People Management  
+> – Project Management  
 
 #### 信息筛选
 
